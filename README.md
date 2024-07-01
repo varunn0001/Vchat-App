@@ -8,4 +8,4 @@ now make a app.js and run `npm install socket.io-client`
 enter into the nodeServer file (`cd .\nodeServer)
 run the following command - nodemon .\app.js
 and your server is live 
-# NOW IT IS READY FOR A REALTIME INTERACTION.
+# now it is ready for a realtime interaction.
